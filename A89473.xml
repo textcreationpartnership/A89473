@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manifest presented to the Parliament in Scotland, in regard of the present troubles in England; according to the eternall righteousnesse of God, the Soveraign iudge. And that they may take heed of causing a new desolation of the poore, by inter-medling with the judgement of God.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89473</idno>
+            <idno type="STC">Wing M423</idno>
+            <idno type="STC">Thomason E525_12</idno>
+            <idno type="STC">ESTC R205649</idno>
+            <idno type="EEBO-CITATION">99864968</idno>
+            <idno type="PROQUEST">99864968</idno>
+            <idno type="VID">164518</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164518)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E525[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manifest presented to the Parliament in Scotland, in regard of the present troubles in England; according to the eternall righteousnesse of God, the Soveraign iudge. And that they may take heed of causing a new desolation of the poore, by inter-medling with the judgement of God.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aug: 5 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:164518:1" rendition="simple:additions"/>
+            <head>THE MANIFEST Preſented to the Parliament in <hi>Scotland,</hi> in regard of the preſent troubles in <hi>England;</hi>
+               <note place="margin">Revel. 16. Pſal. 89.119. Acts. 17. Iſay 11.32.</note> according to the eter<g ref="char:EOLhyphen"/>nall Righteouſneſſe of God, the Soveraign Iudge. And that they may take heed of cauſing a new Deſolation of the Poore, by inter-medling with the judgement of God. <hi>Pſalme</hi> 10.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is no other Goſpel,<note place="margin">Galat. 1. Iohn 1.13.15. Rom. 12. Coloſ. 3. 1 Cor. 12.13.</note> but that which God hath cauſed to be publiſhed by his Servants of old, namely, That every Member of the body of Chriſt ought by putting on hearty compaſſion, of the love of God, to have a tender fellow-feeling and care of the ſufferings of his neighbour or fellow-Member.</p>
+            <p>And if every Angell from Heaven ſhould preach Goſpel otherwiſe,<note place="margin">Philip. 3. 1 Pet. 1.2 1. Io. 2.3.4. Coloſ. 2. Epheſ. 4. Zephan. 3. Iſay 52.54. Acts 20. Gal. 1.5. Coloſ. 2. 1 Pet. 1.2. Hoſ. 4.10.12. Rom. 16. Ier. 23.30.</note> then God hath cauſed it to be taught or preached in former times by his ſervants the Apoſtles, and Prophets; Namely, that the true Belie<g ref="char:EOLhyphen"/>vers are ſo fitly ioyned and compacted together, that they ought, and doe mutually help or ſupply one another, for the increaſe or im<g ref="char:EOLhyphen"/>provement of the whole body, as the univerſall, temporall, and eter<g ref="char:EOLhyphen"/>nall welfare of the Church of God, or the Members of the Body of Chriſt, doth require the ſame; let ſuch a one be accurſed together with his vaine, falſe, and perverted doctrine, outward Temple-ſervice, or pretended Worſhip of God. <hi>Ieremiah</hi> 7.8. Whereby the bond of the Love of God being untied, there enſue ſuch Diviſions ſtill, that there is none at all doth care or trouble himſelf any more for the trouble and ſufferings of another, or for the affliction of <hi>Joſeph. Amos</hi> 6.</p>
+            <p>According to this Goſpel now,<note place="margin">Rom. 1.2 Cor. 5.</note> where the Righteous is not to live on<g ref="char:EOLhyphen"/>ly
+<pb n="2" facs="tcp:164518:2"/>to himſelf,<note place="margin">1 Pet. 4. Gal. 3 John 8.12. Epheſ. 1.2. Coloſ. 1. 1 Peter 1. 1 Cor. 1.3.15. 1 Pet. 1.2. Rom. 1.9.11. Iſay 48. Matth. 24. Marke 13. Luke 21. 1 Theſ. 5. Iſay 45.49. Pſ. 14.73, 97.102. Iſay 33.52.59, 60, 61. Pſal. 75.89. Acts 17.</note> 
+               <hi>Romans</hi> 14. But in the ſpirit unto God, and eſpecially by, or of his Faith, <hi>Habakuk</hi> 2. <hi>Hebrewes</hi> 10. and to walke in the light, whereunto alſo he is redeemed, and delivered from the power of darkeneſſe, and dearely bought by the blood of the Sonne of God. 1 <hi>Corinthians</hi> 6.7. They in <hi>England, Scotland,</hi> and <hi>Ireland,</hi> which doe call themſelves Chriſtians, according to the Covenant of the ſecond or new Teſtament, and have the Word of God, and would be coun<g ref="char:EOLhyphen"/>ted his people by the ſame, <hi>Titus</hi> 1, they ſhould long agoe alreadie, by reaſon of the great Trouble and Tribulation of Mankind, <hi>Daniel</hi> 12. have lifted up their heads, deſiſted from ſinnes, or workes of Darke<g ref="char:EOLhyphen"/>neſſe, been made free, or become ſober from them. 1 <hi>Corinthians</hi> 15. And thus have ſoberly obſerved or given heed for the Deliverance of <hi>Iſrael,</hi> to the worke of the Lord. <hi>Pſalm</hi> 28, <hi>Jſay</hi> 5. or the helpe out of <hi>Zion, Romans</hi> 11. For which end God timely ſent his ſervant <hi>David,</hi> whom he raiſed in that behalfe to judge, <hi>Ieremiah</hi> 30. to come into the Land or Kingdome. <hi>Revelations</hi> 16.</p>
+            <p>But becauſe they were aſleep there,<note place="margin">Dan. 12. 1 Theſ. 5. Math. 24. Luke. 18. 1 Tim. 1. Gal. 5. 1 Cor. 12.13. John 13.15. Hezek. 22. 1 Iohn 3. Iames 3.4. Hebr. 10.12. Amos 5. Ieremiah 30. Iſay 47. Revel. 16.17. 1 Pet. 2. Hezek. 13. 2 Tim. 3. Rom. 16. 2 Pet. 2. Zach. 10.11.13. 2 Tim. 4. Rom. 1. Revel. 20.</note> 
+               <hi>Marke</hi> 13. and the King of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> would at no time take the Kingdome and Iudgement of God, <hi>Daniel</hi> 2.7. for the deliverance of his Elect, into conſideration, ac<g ref="char:EOLhyphen"/>cording to the Law and Teſtimony, <hi>Iſay</hi> 8. or in his own conſcience, ſo as he and his were bound to doe out of a true, unfeigned, Chriſti<g ref="char:EOLhyphen"/>an Faith, and through the Love of God, that incorruptable ſeed, 1 <hi>Peter</hi> 1. <hi>Romans</hi> 12.13. Therefore hath God alſo cauſed the fire in manner foretold, to be thus kindled upon him and his like, by the Ca<g ref="char:EOLhyphen"/>nicall, envious, <hi>Titus</hi> 3. ſelf-revengefull and implacable proceedings of the Parliament there, who were altogether as farre from conſide<g ref="char:EOLhyphen"/>ring the oppreſſed in <hi>Germanie,</hi> but ſuffered thoſe their fellow-Mem<g ref="char:EOLhyphen"/>bers to ſinke and periſh, Soule and Body under the <hi>Babylonian</hi> Yoake or Abomination, and inſtead thereof went about, even againſt God and Chriſt, only to vindicate or avenge themſelves, 1 <hi>Corinthians</hi> 4. and to maintain and eſtabliſh the Hypocriſie and lying of the diſ-uni<g ref="char:EOLhyphen"/>ted, diſtracted, 1 <hi>Timothy</hi> 1.6. divided, <hi>Hoſea</hi> 10. Sectarian, and con<g ref="char:EOLhyphen"/>tentious courſes of their Shepherds, <hi>Ieremiah</hi> 23, and temporall or worldly Teachers, whom they have raiſed and heaped upon them<g ref="char:EOLhyphen"/>ſelves
+<pb n="3" facs="tcp:164518:2" rendition="simple:additions"/>after the manner of thoſe miſchievous,<note place="margin">Ier. 7.17.19. Pſ. 10.12 94. Zach. 1.10. Habac. 3, Pſal. 12.80. Mich. 2.3, 4. Hezek. 22.34.</note> yea Divelliſh Ty<g ref="char:EOLhyphen"/>rants, <hi>Iſay</hi> 29. <hi>Pſalme</hi> 52.68. Theeves and Murderers in <hi>Germany, Iſay</hi> 1.9.34. through whoſe godleſſe, inſolent, fierce, and bar<g ref="char:EOLhyphen"/>barous deportment, ad was turned afterwards to prey and ruine, <hi>Nahum</hi> 2.3. which muſt needs be judged yet, by reaſon of the Deſolation of the poore, and for the ſhedding of ſo much innocent blood by it.</p>
+            <p>And foraſmuch as God will no longer endure hereupon his Earth, that robbing, &amp; murdering in this falſe <hi>Hieruſalem,</hi>
+               <note place="margin">Zach. 5.9.10. Matth. 21.24. Rev. 3.16.22. Iſay 24.26.41.66.</note> 
+               <hi>Marke</hi> 11.13. And much leſſe, yet the Hypocriſie of thoſe lukewarme, neither hot nor cold, falſe practiſes and profeſſions, <hi>Pſalme</hi> 9.50.96.98. Whereby men ſuffer one another to ſinke and periſh,<note place="margin">Zephan. 3. Ier. 30.</note> eſpe<g ref="char:EOLhyphen"/>cially in matters concerning the Soule and Conſcience, on which depends the univerſall, temporall, and eternall welfare of Man<g ref="char:EOLhyphen"/>kind;<note place="margin">Revel. 6.12.</note> ſo as it hath been likewiſe practiſed in <hi>England,</hi>
+               <note place="margin">Hezek. 12.32. Luk 12.17.21. Mat. 24. Marke 15.</note> when they have worried and deſtroyed one another, beſides the leaving of their neighbour deſtitute and helpleſſe; therefore it behooveth thoſe in <hi>Scotland,</hi> to open the inward eyes of Conſcience to good purpoſe, &amp; to look well to it, what they are about,<note place="margin">Nahum 3. Ier. 2.7.22. Rom. 12.</note> or how they are to carrie themſelves in regard of their preſent troubles and war<g ref="char:EOLhyphen"/>like Commotions, whereby Sathan is let quite looſe now,<note place="margin">Epheſ. 4. Iames 3.4. Hebr. 10, 12. Pſal. 10.94. Mich. 3.</note> 
+               <hi>Revel.</hi> 20. with rage and fury <hi>Pſalme</hi> 2.76. murther, theft, or robberies and bloodſhed committed on the innocent; and that they doe not further emancipate or ſubiect themſelves, 2 <hi>Peter</hi> 2. to the ſelfe-revenging, Cainicall, 1 <hi>Iohn</hi> 3. fierce, envious, <hi>Titus</hi> 3. and impla<g ref="char:EOLhyphen"/>cable Murther, and plunder-Divell, <hi>Revel.</hi> 16.20.21. to fley, and deſtroy the poore people and Inhabitants of <hi>England.</hi>
+            </p>
+            <p>Souldiers indeed there will be required yet,<note place="margin">Ioel 3. 2 Theſ. 1. Wiſd. 5. Rev. 18.19.22.</note> to ſerve God in the execution of his vengeance or iealouſie, <hi>Iſa</hi> 9. Iudgement and Righteouſneſſe; The Method or proceeding whereof would be this; That ſuch as will eſchew the wrath of God (the King of <hi>England,</hi>
+               <note place="margin">Ro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> and other his like in Authority) doe ſo order their Government according to Conſcience, in the firſt place: as th<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>bound by God and Right to doe in the behalfe of their own, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:164518:3" rendition="simple:additions"/>Subiects, <hi>Wiſd.</hi> 6. <hi>Iſay</hi> 32. and then alſo, that they be aiding and aſſiſting their ſuffering or oppreſſed neighbour or fellow mem<g ref="char:EOLhyphen"/>bers for their deliverance.<note place="margin">Gal. 5. 1 Cor. 12.13 Luke 17.18. Iſay 24.26. Daniel 12. 1 Theſ. 5. Mal. 3.4. Mat. 24. 2 Pet. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Rev. 16.17.18.</note> 
+               <hi>Iſay</hi> 49.60. Which hitherto, for the unbelief, and Gods contempt of the ſpiritually Dead <hi>Revel.</hi> 12.20, that ſleep in ſin, were forced to periſh ſoule and body; for which cauſe many ſhal awak, &amp; riſe again with everlaſting ſhame &amp; confuſion. For ther is no peace at hand in the world yet, <hi>Hezek.</hi> 13. neither for thoſe under the great <hi>Babell</hi> or <hi>Babylonian</hi> Whore, <hi>Iſay</hi> 47.52 63. nor for any other unbeleevers, and ungodly Hypocrites, Scoffers and Scorners. Ep. <hi>Iude.</hi>
+            </p>
+            <p>But if ſo be, the Princes and Iudges, Governours or Officers of <hi>Scotland</hi> will likewiſe not obſerve this preſent and laſt time accor<g ref="char:EOLhyphen"/>ding to the Law and Teſtimony of their Conſcience,<note place="margin">Mich. 5 Wiſd. 6. D<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>. 8.11.12. Luke 21. Iſay 8 51.59 Ier<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 30. Hez<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k. 22. Iſay 45. Amos 5. Zeph. 1.3. Pſal. 33.68. Hoſea 10, Iſay 8.</note> 
+               <hi>Iſay</hi> 8. nor looke upon the univerſall, temporall, and eternall welfare of man<g ref="char:EOLhyphen"/>kind, in their preſent confuſions, great troubles and calamities, <hi>Marke</hi> 13. according to Iudgement and Righteouſneſſe, the very like may befall them, that hitherto befell others, whoſe condition they reſemble. For God, who hath both light and darkeneſſe in his hand i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as eaſily able to kindle the fire among them alſo. Ha<g ref="char:EOLhyphen"/>ving ſuffered none yet, where he ſent me, to proſper in their purpo<g ref="char:EOLhyphen"/>ſes, humaine deviſes, or conſultations, againſt his everlaſting Councell.</p>
+            <closer>
+               <dateline>Given according to Truth and Righteouſneſſe,<note place="margin">Pſal. 89.97. Acts 17. Mich. 7. Wiſd. 5.</note> (Amos 5.) Where<g ref="char:EOLhyphen"/>by God will ſee the Nations of this world judged, <hi>Iſay</hi> 51.59. At <hi>Edinburgh</hi> in <hi>Scotland,</hi> 
+                  <date>1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
